@@ -1,6 +1,8 @@
 # make-icons
 create icns (for MacOS) and ico (for Windows) in a one-step way
 
+Note: For now you can only run this script on a MAC
+
 ### Step 1: install imagick
 ```
 brew install imagemagick
